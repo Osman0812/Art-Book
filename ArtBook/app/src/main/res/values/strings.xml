@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Art Book</string>
+    <string name="add_art">Add Art</string>
+    <string name="test">Test</string>
+</resources>
